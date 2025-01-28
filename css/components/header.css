@@ -1,0 +1,17 @@
+.header {
+  background-color: var(--background);
+  padding: 17px 0 18px;
+}
+
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+}

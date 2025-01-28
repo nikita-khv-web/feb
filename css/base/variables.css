@@ -1,0 +1,17 @@
+:root {
+  /* FONTS */
+  --font-primary: "Open Sans", sans-serif;
+  --font-additional: "Cormorant", sans-serif;
+
+  /* COLORS */
+  --white: #fff;
+  --grey: #899d9d;
+  --red: #e24949;
+  --background: #1d2f30;
+  --background-shade: #0b1919;
+  --text: #506829;
+  --primary: #bae249;
+  --active: #688b05;
+  --focus: #83a440;
+  --hover: #91ac46;
+}
